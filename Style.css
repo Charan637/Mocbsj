@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 100px;
+  background-color: #111;
+  color: #eee;
+}
+input[type="password"] {
+  padding: 10px;
+  border-radius: 8px;
+}
+button {
+  padding: 10px 20px;
+  background: #0077ff;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: #0ef;
+  text-decoration: none;
+}
